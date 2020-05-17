@@ -1,0 +1,4 @@
+/var/folders/9g/ykdvhzh53qn6lt5_6x23xp5h0000gn/T/tmpw3lh4qp0/dolfin_expression_55582a9e01357920c1d6a21c2a606b6f.cpp:61:23: error: use of undeclared identifier 'V_cell'
+          values[0] = V_cell;
+                      ^
+1 error generated.

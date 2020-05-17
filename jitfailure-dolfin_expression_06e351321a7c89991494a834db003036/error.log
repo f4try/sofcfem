@@ -1,0 +1,4 @@
+/var/folders/9g/ykdvhzh53qn6lt5_6x23xp5h0000gn/T/tmpsj29_h67/dolfin_expression_06e351321a7c89991494a834db003036.cpp:61:23: error: use of undeclared identifier 'i_a'
+          values[0] = i_a(x[0],x[1]);
+                      ^
+1 error generated.

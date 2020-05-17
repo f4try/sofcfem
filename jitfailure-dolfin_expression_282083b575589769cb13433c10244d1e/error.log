@@ -1,0 +1,4 @@
+/var/folders/9g/ykdvhzh53qn6lt5_6x23xp5h0000gn/T/tmpan31f3t1/dolfin_expression_282083b575589769cb13433c10244d1e.cpp:61:32: error: extraneous ')' before ';'
+          values[0] = -0.7*x[0]);
+                               ^
+1 error generated.
